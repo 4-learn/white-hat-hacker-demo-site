@@ -31,3 +31,6 @@ $ python3 server.py
 #### 網址:
 - /inject
 
+#### 解答:
+- [Answer](https://github.com/yillkid/ntc-white-hat/tree/master/answer-xss-flask-server/002)
+
