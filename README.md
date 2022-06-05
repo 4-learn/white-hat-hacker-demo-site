@@ -21,3 +21,13 @@ $ python3 server.py
 
 #### 解答:
 - [Answer](https://github.com/yillkid/ntc-white-hat/tree/master/answer-xss-flask-server/001)
+
+## Stored XSS (Inject)
+
+#### 題目:
+1. 請印出 `{"passoword":"myPasswordOhhh"}` 
+2. 請修補漏洞
+
+#### 網址:
+- /inject
+
