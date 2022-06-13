@@ -63,7 +63,7 @@ $ python3 server.py
 
 #### 測試:
 - `http://127.0.0.1:5566/is_admin?username=john`
-![img]("https://github.com/yillkid/xss-flask-server/blob/master/docs/imgs/is_admin_john.png?raw=true)
+![is_admin_john](https://user-images.githubusercontent.com/185872/173305442-2bd9a510-057d-4032-85a0-f6bcfa5376e2.png)
 
 - `http://127.0.0.1:5566/is_admin?username=mary`
-![img]("https://github.com/yillkid/xss-flask-server/blob/master/docs/imgs/is_admin_mary.png?raw=true)
+![is_admin_mary](https://user-images.githubusercontent.com/185872/173305513-b8cd39db-ec2e-4375-a4cc-30f874f8b597.png)
