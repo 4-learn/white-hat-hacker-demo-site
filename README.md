@@ -1,4 +1,4 @@
-# Falsk server XSS attack demonstration
+# Flask server XSS attack demonstration
 
 ## Installation
 ```bash=
