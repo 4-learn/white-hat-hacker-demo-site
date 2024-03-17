@@ -1,4 +1,7 @@
-# Flask server XSS attack demonstration
+# White hat hacker XSS demo site
+
+## About
+Demo site for https://github.com/4-learn/white-hat-hacker
 
 ## Installation
 ```bash=
