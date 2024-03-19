@@ -1,4 +1,4 @@
-# White hat hacker XSS demo site
+# White hat hacker demo site
 
 ## About
 Demo site for https://github.com/4-learn/white-hat-hacker
